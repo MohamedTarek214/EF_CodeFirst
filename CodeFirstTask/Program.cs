@@ -1,4 +1,4 @@
-﻿namespace CodeFirstTask
+﻿namespace Bookstore
 {
     internal class Program
     {
